@@ -1,0 +1,76 @@
+.policy-form {
+  width: 700px;
+  padding: 20px;
+  border-radius: 4px;
+  margin: 50px auto;
+  border: 1px solid;
+}
+
+.btn {
+  padding: 5px 15px;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.link {
+  color: darkslategray;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
+
+.link-danger {
+  color: red;
+}
+
+.form-control {
+  border: 1px solid;
+  padding: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-bw {
+  justify-content: space-between;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-end {
+  justify-content: end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
